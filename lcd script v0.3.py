@@ -1,12 +1,5 @@
 ### Valentino Mariotto 2020 ###
 
-
-## utili?
-# import RPi.GPIO as GPIO 
-# GPIO.cleanup()
-
-# lcd.close()
-
 import re       # regex lib
 import logging
 import sys
